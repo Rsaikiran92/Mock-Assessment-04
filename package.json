@@ -1,0 +1,25 @@
+{
+  "name": "mock-assessment-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rsaikiran92/Mock-Assessment-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rsaikiran92/Mock-Assessment-04/issues"
+  },
+  "homepage": "https://github.com/Rsaikiran92/Mock-Assessment-04#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.2"
+  }
+}
